@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SharedBrefronc</string>
+    <string name="shard_name" />
+    <string name="string_key" />
+</resources>
